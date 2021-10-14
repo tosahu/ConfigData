@@ -27,3 +27,5 @@ management:
         include: '*  '
 server:
   port: 8081
+sample:
+  test: A
