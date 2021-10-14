@@ -28,4 +28,4 @@ management:
 server:
   port: 8081
 sample:
-  test: A
+  test: B
