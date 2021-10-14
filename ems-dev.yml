@@ -19,7 +19,7 @@ eureka:
     instance:
       preferIpAddress: true
     service-url:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://admin:admin123@localhost:8761/eureka/
 management:
   endpoints:
     web:
